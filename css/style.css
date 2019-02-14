@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stack: Helvetica, sans-serif; }
+
+.primary-nav {
+  background: #3496db;
+  padding: 20px;
+  overflow: hidden;
+  primary-color: #333; }
+
+.brand-logo {
+  float: left;
+  color: white;
+  font-size: 22px;
+  margin-top: 10px; }
+
+.menu-nav {
+  color: white;
+  float: right; }
+  .menu-nav li {
+    float: left;
+    padding-left: 20px;
+    display: block; }
+
+button {
+  width: 39px;
+  height: 50%;
+  color: white;
+  background: blue; }
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+nav li {
+  display: inline-block; }
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none; }
+
+/*# sourceMappingURL=style.css.map */
